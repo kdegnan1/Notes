@@ -19,7 +19,7 @@
 //         return subRes === -1 ? -1 : subRes + num + 1;
 //         debugger
 //     }
-
+//
 // }
 
 // console.log(binarySearch([1,5,23,111], 111))
