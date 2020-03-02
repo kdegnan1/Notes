@@ -20,6 +20,7 @@
 //         debugger
 //     }
 //
+//
 // }
 
 // console.log(binarySearch([1,5,23,111], 111))
