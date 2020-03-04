@@ -64,4 +64,4 @@
 
 // practicing 
 // sending out 6 more apps today 
-//
+//gonna fix this bug later
