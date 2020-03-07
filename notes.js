@@ -6,3 +6,4 @@
 //saturday notes 
     //10 more apps to send out, need mroe outreach 
     //make more green
+    //fix interview db challenges 
