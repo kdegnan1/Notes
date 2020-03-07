@@ -7,3 +7,4 @@
     //10 more apps to send out, need mroe outreach 
     //make more green
     //fix interview db challenges 
+    //data structures practice 
