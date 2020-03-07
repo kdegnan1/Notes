@@ -3,3 +3,5 @@
 //finish interview db
 //use new sites to apply to jobs 
 //ttoal 40 apps this week 
+//saturday notes 
+    //10 more apps to send out, need mroe outreach 
