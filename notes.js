@@ -7,4 +7,4 @@
 //practice algorithms 
 // finish last touches on projects so next week can start a new one 
 // read more articles on updated technology 
-// read aout new features 
+// read aout new features on react, HOOKS! 
