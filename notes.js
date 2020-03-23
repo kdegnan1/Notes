@@ -12,4 +12,4 @@
 // go over all of fullstack 
 // do two tech interviews 
 // do notes
-//
+// algo expert
