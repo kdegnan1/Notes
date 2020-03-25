@@ -13,6 +13,7 @@
 // do two tech interviews 
 // do notes
 // algo expert
+// see if friends need a personal website to add under experience 
 // 
 //
 //
