@@ -18,4 +18,6 @@
 //
 //
 //
+// go to spotify developer page , 
+// spotify api needs a backend 
 //
