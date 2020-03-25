@@ -20,4 +20,4 @@
 //
 // go to spotify developer page , 
 // spotify api needs a backend 
-//
+// play around with python this week s
