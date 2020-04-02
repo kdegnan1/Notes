@@ -23,7 +23,6 @@
 // spotify api needs a backend 
 // play around with python this week
 // blast out application
-//
 
 //march31 
 //did reach outs and applied to 20 jobs 
